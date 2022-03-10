@@ -6,7 +6,12 @@
 
     <groupId>org.kirito</groupId>
     <artifactId>CodeDesignTutorials</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>tutorials-1.2-0</module>
+        <module>tutorials-1.2-1</module>
+    </modules>
 
 
 </project>
